@@ -18,7 +18,7 @@
   </a>
 
   <a>
-    <img alt="Progress" title="Progress" src="https://img.shields.io/badge/devProgress-30%-orange">
+    <img alt="Progress" title="Progress" src="https://img.shields.io/badge/progress-30%25-orange">
   </a>
 
   <a>
