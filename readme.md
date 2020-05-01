@@ -10,7 +10,7 @@
 
 <p align="center">
   <a>
-    <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/wesleymonaro/go_barber_app?color=%ff9000">
+    <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/wesleymonaro/go_barber_app?color=#ff9000">
   </a>
 
   <a>
@@ -22,7 +22,7 @@
   </a>
 
   <a>
-    <img alt="Contributors" title="Contributors" src="https://img.shields.io/github/contributors/wesleymonaro/go_barber_app?color=%ff9000">
+    <img alt="Contributors" title="Contributors" src="https://img.shields.io/github/contributors/wesleymonaro/go_barber_app?color=#ff9000">
   </a>
 
 </p>
@@ -45,11 +45,11 @@ O app do GoBarber permitirá:
 OBS: O projeto precisa da API e do sistema WEB, que serão disponibilizados aqui em breve.
 
 <p align="center">
-  <img src="https://i.ibb.co/9sKrsFP/Simulator-Screen-Shot-i-Phone-11-2020-05-01-at-11-17-17.png" width=700>
+  <img src="https://i.ibb.co/9sKrsFP/Simulator-Screen-Shot-i-Phone-11-2020-05-01-at-11-17-17.png" width=400>
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/nfBWsMg/Simulator-Screen-Shot-i-Phone-11-2020-05-01-at-11-17-22.png" width=700>
+  <img src="https://i.ibb.co/nfBWsMg/Simulator-Screen-Shot-i-Phone-11-2020-05-01-at-11-17-22.png" width=400>
 </p>
 
 <br>
