@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img alt="GO Barber" title="Go Barber - App de barbearia" src=".github/logo.png" width="400">
+    <img alt="GO Barber" title="Go Barber - App de barbearia" src=".github/_logo.png" width="400">
   </a>
 </p>
 
@@ -15,10 +15,6 @@
 
   <a>
     <img alt="Build" title="Build" src="https://img.shields.io/badge/build-pass-green">
-  </a>
-
-  <a>
-    <img alt="Progress" title="Progress" src="https://img.shields.io/badge/progress-30%25-orange">
   </a>
 
   <a>
