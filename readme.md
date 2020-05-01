@@ -18,6 +18,10 @@
   </a>
 
   <a>
+    <img alt="Progress" title="Progress" src="https://img.shields.io/badge/progress-30%25-orange">
+  </a>
+
+  <a>
     <img alt="Contributors" title="Contributors" src="https://img.shields.io/github/contributors/wesleymonaro/go_barber_app?color=#ff9000">
   </a>
 
